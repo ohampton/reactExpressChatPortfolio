@@ -1,5 +1,8 @@
 .container.testimonials__container{
-    width: 40%;
+    /* width: 40%; */
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 3rem
 
 }
 
@@ -31,7 +34,8 @@
 /* ================== Media queries (Medium Devices) ===================== */
 @media  screen and (max-width: 1024px) {
         .container.testimonials__container{
-            width: 60%;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
         }
   }
 
@@ -39,7 +43,9 @@
 
 @media  screen and (max-width: 600px) {
        .container.testimonials__container{
-           width: var(--container-width-sm);
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    
        }
 
        .client__review{
