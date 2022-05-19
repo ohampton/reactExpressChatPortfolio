@@ -26,7 +26,7 @@ const data = [
     id: 3,
     image: IMG3,
     title: 'Score Keeping App',
-    github: 'https://ohampton.github.io/scoreKeeping/h',
+    github: 'https://ohampton.github.io/scoreKeeping/',
     demo: 'https://ohampton.github.io/scoreKeeping/'
   },
   {
