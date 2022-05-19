@@ -16,11 +16,8 @@ const Contact = () => {
     e.preventDefault();
 
     emailjs.sendForm('service_1lrgkja', 'template_ncgqhkp', form.current, 'RUcasiQtqQWoueWGK')
-      .then((result) => {
-          console.log(result.text);
-      }, (error) => {
-          console.log(error.text);
-      });
+
+    e.target.reset()
   };
 
   return (
