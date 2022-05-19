@@ -58,3 +58,7 @@ const Contact = () => {
 }
 
 export default Contact
+
+// Notes 
+
+// emailjs.com

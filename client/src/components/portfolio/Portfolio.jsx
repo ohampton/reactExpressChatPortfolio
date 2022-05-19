@@ -2,7 +2,7 @@ import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/portfolio1.jpg'
 import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
+import IMG3 from '../../assets/steph3.jpeg'
 import IMG4 from '../../assets/portfolio4.jpg'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
@@ -25,9 +25,9 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: 'Oscar Dance Site',
-    github: 'https//github.com',
-    demo: 'https//github.com'
+    title: 'Score Keeping App',
+    github: 'https://ohampton.github.io/scoreKeeping/h',
+    demo: 'https://ohampton.github.io/scoreKeeping/'
   },
   {
     id: 4,
