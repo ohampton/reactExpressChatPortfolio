@@ -31,7 +31,7 @@ const about = () => {
             <article className='about__card'>
               <FiUsers className='about__icon'/>
               <h5>Clients</h5>
-              <small>200 Clients</small>
+              <small> 100 Clients</small>
             </article>
             <article className='about__card'>
               <FiFolder className='about__icon'/>
