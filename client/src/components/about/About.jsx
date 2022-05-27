@@ -41,7 +41,10 @@ const about = () => {
            </div>
           
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio quibusdam optio itaque praesentium, ex esse voluptatibus. Harum laudantium ratione explicabo voluptatibus voluptate sapiente pariatur, eligendi repudiandae, unde, dicta quia nam.
+          I’m a Full Stack Developer located in Burlington, VT. I have a serious passion for Mobile Apps, animations and creating intuitive, dynamic user experiences.
+          Well-organised person, problem solver, independent employee with high attention to detail. Fan of Rock Climbing, Vintage and Modern Swing Dancing, Comic Books and Soccer. 
+          Interested in the entire frontend spectrum and working on ambitious projects with positive people.
+
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
