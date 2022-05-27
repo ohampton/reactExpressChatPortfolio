@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactExpressChatPortfolio/static/css/main.c5d02563.css",
+    "main.js": "/reactExpressChatPortfolio/static/js/main.289f6084.js",
+    "static/media/steph3.jpeg": "/reactExpressChatPortfolio/static/media/steph3.d6627fe83f784cb0debf.jpeg",
+    "static/media/oscarDance.jpeg": "/reactExpressChatPortfolio/static/media/oscarDance.b60f68f6ef549a02c9ca.jpeg",
+    "static/media/oscarProfile2.jpeg": "/reactExpressChatPortfolio/static/media/oscarProfile2.1a60a4bbebd95f90dafc.jpeg",
+    "static/media/portfolio5.png": "/reactExpressChatPortfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/oscarProfile.jpeg": "/reactExpressChatPortfolio/static/media/oscarProfile.dc50777be54f34804b48.jpeg",
+    "static/media/OzCV.pdf": "/reactExpressChatPortfolio/static/media/OzCV.8c9d67695ef3c2839e0f.pdf",
+    "static/media/portfolio2.jpg": "/reactExpressChatPortfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/reactExpressChatPortfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio4.jpg": "/reactExpressChatPortfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/reactExpressChatPortfolio/index.html",
+    "main.c5d02563.css.map": "/reactExpressChatPortfolio/static/css/main.c5d02563.css.map",
+    "main.289f6084.js.map": "/reactExpressChatPortfolio/static/js/main.289f6084.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5d02563.css",
+    "static/js/main.289f6084.js"
+  ]
+}
