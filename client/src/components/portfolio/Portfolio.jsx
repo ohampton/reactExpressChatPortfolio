@@ -18,7 +18,7 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: 'Oscar Dance Site',
+    title: 'Personal Chat App',
     github: 'https//github.com',
     demo: 'https//github.com'
   },
