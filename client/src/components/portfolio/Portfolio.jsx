@@ -19,8 +19,8 @@ const data = [
     id: 2,
     image: IMG2,
     title: 'Personal Chat App',
-    github: 'https//github.com',
-    demo: 'https//github.com'
+    github: 'https://ohampton.github.io/chatApp/',
+    demo: 'https://ohampton.github.io/chatApp/'
   },
   {
     id: 3,
