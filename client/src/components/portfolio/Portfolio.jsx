@@ -29,27 +29,27 @@ const data = [
     github: 'https://ohampton.github.io/scoreKeeping/',
     demo: 'https://ohampton.github.io/scoreKeeping/'
   },
-  {
-    id: 4,
-    image: IMG4,
-    title: 'Oscar Dance Site',
-    github: 'https//github.com',
-    demo: 'https//github.com'
-  },
-  {
-    id: 5,
-    image: IMG5,
-    title: 'Oscar Dance Site',
-    github: 'https//github.com',
-    demo: 'https//github.com'
-  },
-  {
-    id: 6,
-    image: IMG6,
-    title: 'Oscar Dance Site',
-    github: 'https//github.com',
-    demo: 'https//github.com'
-  },
+  // {
+  //   id: 4,
+  //   image: IMG4,
+  //   title: 'Oscar Dance Site',
+  //   github: 'https//github.com',
+  //   demo: 'https//github.com'
+  // },
+  // {
+  //   id: 5,
+  //   image: IMG5,
+  //   title: 'Oscar Dance Site',
+  //   github: 'https//github.com',
+  //   demo: 'https//github.com'
+  // },
+  // {
+  //   id: 6,
+  //   image: IMG6,
+  //   title: 'Oscar Dance Site',
+  //   github: 'https//github.com',
+  //   demo: 'https//github.com'
+  // },
 ]
 
 const Portfolio = () => {
