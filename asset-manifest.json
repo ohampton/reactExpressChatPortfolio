@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactExpressChatPortfolio/static/css/main.c5d02563.css",
-    "main.js": "/reactExpressChatPortfolio/static/js/main.dc73d70d.js",
+    "main.js": "/reactExpressChatPortfolio/static/js/main.2f83ae9c.js",
     "static/media/steph3.jpeg": "/reactExpressChatPortfolio/static/media/steph3.d6627fe83f784cb0debf.jpeg",
     "static/media/chatApp.png": "/reactExpressChatPortfolio/static/media/chatApp.4c477334e73b1786fa02.png",
     "static/media/oscarDance.jpeg": "/reactExpressChatPortfolio/static/media/oscarDance.b60f68f6ef549a02c9ca.jpeg",
@@ -13,10 +13,10 @@
     "static/media/portfolio4.jpg": "/reactExpressChatPortfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/reactExpressChatPortfolio/index.html",
     "main.c5d02563.css.map": "/reactExpressChatPortfolio/static/css/main.c5d02563.css.map",
-    "main.dc73d70d.js.map": "/reactExpressChatPortfolio/static/js/main.dc73d70d.js.map"
+    "main.2f83ae9c.js.map": "/reactExpressChatPortfolio/static/js/main.2f83ae9c.js.map"
   },
   "entrypoints": [
     "static/css/main.c5d02563.css",
-    "static/js/main.dc73d70d.js"
+    "static/js/main.2f83ae9c.js"
   ]
 }
